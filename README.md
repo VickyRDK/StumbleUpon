@@ -21,5 +21,3 @@ from it by encoding the validation and train data.
 
 * After training, the model is evaluated on the validation dataset and the corresponding 
 classification report is generated with precision and recall for each classes.
-
-(This was coded in google colab as my gpu was unable to load the dataset)
